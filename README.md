@@ -136,6 +136,13 @@ have a build process for your assets, use your build's output directory.
   type: firebase deploy
 ```
 
+# Deployment is finish!! your website is online now
+```
+Project Console: https://console.firebase.google.com/project/chawakorn-dev/overview
+Hosting URL: https://chawakorn-dev.web.app
+```
+## this is a url of your website Hosting URL: [https://chawakorn-dev.web.app](https://chawakorn-dev.web.app)
+
 ## Contact me
 
 Email: Chawakorn.n@kkumail.com
